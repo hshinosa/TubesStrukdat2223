@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1703949779 source:c:\users\fadillah\onedrive - telkom university\dokumen\my file\rpl\semester 3\struktur data\shoping\main.cpp
+	<iostream>
+	"shop.h"
+
+1703934802 c:\users\fadillah\onedrive - telkom university\dokumen\my file\rpl\semester 3\struktur data\shoping\shop.h
+	<iostream>
+
+1703949872 source:c:\users\fadillah\onedrive - telkom university\dokumen\my file\rpl\semester 3\struktur data\shoping\shop.cpp
+	"shop.h"
+
+1704436681 source:c:\users\hshi\documents\shoping\shop.cpp
+	"shoP.h"
+
+1704436816 c:\users\hshi\documents\shoping\shop.h
+	<iostream>
+
+1704436947 source:c:\users\hshi\documents\shoping\main.cpp
+	<iostream>
+	"shop.h"
+
